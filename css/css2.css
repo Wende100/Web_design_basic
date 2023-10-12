@@ -6,6 +6,7 @@
         background: rgb(0, 124, 128);
         align-items:center;
         justify-content:center;
+        background-image:linear-gradient(to left,  rgb(25, 133, 70), blue,violet)
     }h1{
         font-style: normal;
         text-align: center;
@@ -21,6 +22,8 @@
         font-size: 20px;
         font-family: monospace;
         font-weight: 100;
+        vertical-align:text-top;
+        
     }
     h2{
         font-family: Arial, Helvetica, sans-serif;
