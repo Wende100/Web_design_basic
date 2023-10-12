@@ -18,7 +18,7 @@ body{text-align: center;
 p{ 
     text-align: center;
     color: rgb(43, 226, 119);
-    font-size: 20px;
+    font-size: 10px;
     font-family: monospace;
     font-weight: 600;
 }
@@ -35,8 +35,8 @@ button{
     justify-content:center;
 width: 100%;}
 }img{
-    height: 400px;
-    width: 600px;
+    height: 100px;
+    width: 150px;
     text-align: center;
     font-style: normal;
  
