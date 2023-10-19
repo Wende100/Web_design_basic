@@ -3,6 +3,8 @@
     body{
         text-align: center;
         margin: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
         background-image:linear-gradient(to left,  rgb(25, 133, 70), blue,violet)
     }h1{
         font-style: normal;

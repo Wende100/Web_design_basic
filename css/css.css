@@ -1,7 +1,10 @@
 *{margin:0;
 padding: 0;}
+
 body{text-align: center;
     margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-image:linear-gradient(to left,  rgb(25, 133, 70), blue,violet)
 }h1{
     font-style: normal;
@@ -32,8 +35,7 @@ button{
 }@media screen and(max-width:768px){.flex-container{
     display: flex;
     flex-direction: column;
-    justify-content:center;
-width: 100%;}
+    justify-content:center;}
 }img{
     height: 100px;
     width: 150px;
